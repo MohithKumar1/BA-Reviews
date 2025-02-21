@@ -11,8 +11,8 @@ This Tableau project highlights the performance of various factors that wield si
 
 I have created a parameter (titled 'Pick a Metric') along with several filters to dynamically update the figures and trends shown in the KPI cards and data visualizations on the dashboard. These filters include:
 
-Month of Date
-Traveller Type
-Seat Type
-Aircraft
-Continent
+Month of Date /n
+Traveller Type /n
+Seat Type /n
+Aircraft /n
+Continent /n
